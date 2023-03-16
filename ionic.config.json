@@ -1,0 +1,7 @@
+{
+  "name": "ListSampleApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
